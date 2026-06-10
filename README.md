@@ -60,7 +60,7 @@ Proposed a multi-sensor ML framework combining health vitals and gait data for e
 
 - 📧 nilabhaskar22@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/nila-bhaskar-5b8682281/)
-- 🐙 [GitHub]((https://github.com/Nila-Bhaskar))
+- 🐙 [GitHub](https://github.com/Nila-Bhaskar)
 
 ---
 
