@@ -1,7 +1,7 @@
 # 🌿 Nila Bhaskar — Data Science Portfolio
 
 > Personal portfolio website built with plain HTML/CSS, hosted on GitHub Pages.  
-> Live at: **[nilabhaskar.github.io](https://nilabhaskar.github.io)**
+> Live at: **[nilabhaskar.github.io]((https://nila-bhaskar.github.io/#))**
 
 ---
 
